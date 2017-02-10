@@ -1,6 +1,6 @@
 {
   "name": "domokeeper-plugin-skeleton",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A domokeeper starter plugin",
   "main": "index.js",
   "scripts": {
