@@ -1,0 +1,19 @@
+{
+  "name": "domokeeper-plugin-skeleton",
+  "version": "0.0.1",
+  "description": "A domokeeper starter plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jperelli/domokeeper-plugin-skeleton.git"
+  },
+  "author": "Julian Perelli (http://jperelli.com.ar/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jperelli/domokeeper-plugin-skeleton/issues"
+  },
+  "homepage": "https://github.com/jperelli/domokeeper-plugin-skeleton#readme"
+}
