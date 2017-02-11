@@ -4,6 +4,7 @@ module.exports = {
       f: function() {
         // implementation here, use rpi-gpio node module maybe?
         // if using some extra module, add it to package.json
+        console.log('calling action open');
       },
       help: 'Send open signal to the door'
     }
@@ -11,7 +12,7 @@ module.exports = {
   sensors: {
     temp: {
       f: function() {
-        return 15;
+        return Math.floor(Math.random() * 100) + 1;;
       },
       type: 'int',
       help: 'get temperature value from TMP36'
